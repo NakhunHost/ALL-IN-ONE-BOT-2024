@@ -1,8 +1,8 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "?",
+    "mongodbUri": "mongodb+srv://codex-us1:codex-us1@codex-us1.xe7t0.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
