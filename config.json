@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "?",
-    "mongodbUri": "mongodb+srv://codex-us1:codex-us1@codex-us1.xe7t0.mongodb.net/?retryWrites=true&w=majority",
+    "mongodbUri": "mongodb+srv://nakhunux:mongodb@cluster0.ydey4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
