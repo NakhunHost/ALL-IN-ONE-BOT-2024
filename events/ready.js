@@ -13,7 +13,7 @@ module.exports = {
         ];
 
      
-        const statuses = ['online', 'online', 'online'];
+        const statuses = ['online'];
 
      
         let currentActivityIndex = 0;
