@@ -33,7 +33,7 @@
             "identifier": "INZEWORLD.COM (DE)",
             "password": "saher.inzeworld.com",
             "host": "lava.inzeworld.com",
-            "port": 3000,
+            "port": 3128,
             "secure": false
           }
     }, 
