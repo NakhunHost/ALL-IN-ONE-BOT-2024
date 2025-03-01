@@ -1,7 +1,7 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "?",
+    "prefix": "!",
     "mongodbUri": "mongodb+srv://nakhunux:mongodb@cluster0.ydey4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
@@ -30,9 +30,9 @@
     },
      "lavalink": {
         "lavalink": {
-            "identifier": "ChalresNaig Node",
-            "password": "NAIGLAVA-dash.techbyte.host",
-            "host": "lavahatry4.techbyte.host",
+            "identifier": "INZEWORLD.COM (DE)",
+            "password": "saher.inzeworld.com",
+            "host": "lava.inzeworld.com",
             "port": 3000,
             "secure": false
           }
