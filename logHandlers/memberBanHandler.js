@@ -5,7 +5,7 @@ module.exports = async function memberBanHandler(client) {
     client.on('guildBanAdd', async (ban) => {
         // Send DM to the banned user
         try {
-            await ban.user.send(`You have been banned from ${ban.guild.name}. If you believe this was a mistake, you can appeal here: [Appeal Form](https://your-appeal-website.com)`);
+            await ban.user.send(`You have been banned from ${ban.guild.name}. If you believe this was a mistake, you can appeal here: [Appeal Form](https://cookieshub-exe.github.io/Unblacklist-Cookieshub/)`);
         } catch (error) {
             console.error(`Could not send DM to ${ban.user.tag}:`, error);
         }
