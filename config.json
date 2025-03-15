@@ -30,10 +30,10 @@
     },
      "lavalink": {
         "lavalink": {
-            "identifier": "GlaceYT",
-            "password": "enteryourcustompass",
-            "host": "180.188.226.76",
-            "port": 7019,
+            "identifier": "Avian",
+            "password": "pokemon",
+            "host": "new-york-node1.vortexcloud.xyz",
+            "port": 9376,
             "secure": false
           }
     }, 
