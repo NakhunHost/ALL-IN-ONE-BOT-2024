@@ -32,7 +32,7 @@
         "lavalink": {
             "identifier": "Avian",
             "password": "pokemon",
-            "host": "new-york-node1.vortexcloud.xyz",
+            "host": "new-york-node-1.vortexcloud.xyz",
             "port": 9376,
             "secure": false
           }
