@@ -6,10 +6,10 @@ module.exports = {
     execute(client) {
   
         const activities = [
-            { name: 'Sakura Community', type: ActivityType.Watching },
+            { name: 'Cookie Hub', type: ActivityType.Watching },
             { name: 'Roblox', type: ActivityType.Playing },
-            { name: 'on Sakura Community', type: ActivityType.Streaming },
-            { name: 'Blue - Yung Kai', type: ActivityType.Listening },
+            { name: 'on Cookie Hub', type: ActivityType.Streaming },
+            { name: 'Average Respond 1 minute', type: ActivityType.Ticket },
         ];
 
      
